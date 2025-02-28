@@ -1,0 +1,20 @@
+#heading1 {
+   color: white;
+   background-color:#814996;
+   padding: 3px;
+}
+
+#heading2 {
+   color: white;
+   background-color:#D69ADE;
+   padding: 4px;
+   font-size: small;
+}
+.intro{
+   color: black;
+   background-color:#EABDE6;
+   padding: 3px;
+}
+#link{
+   color: #6c0890;
+}
